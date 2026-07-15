@@ -10,7 +10,6 @@ int main() {
 
     largest = a[0];
 
-
     for(i = 1; i < 10; i++) {
         if(a[i] > largest) {
             largest = a[i];
